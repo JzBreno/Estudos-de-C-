@@ -124,4 +124,5 @@ static void dict()
 string msg = "menu principal";
 Console.WriteLine(msg);
 dict();
+console.WriteLine("teste");
 
